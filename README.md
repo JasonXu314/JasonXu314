@@ -1,5 +1,9 @@
 ### Hi there 👋
 - I should probably fill this out sometime
+- 50% TS
+- 10% CPP
+- 40% Sheer power of will
+- Wait that didn't rhyme :(
 <!--
 **JasonXu314/JasonXu314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
